@@ -1,3 +1,10 @@
 " d e v 分 支 
+<<<<<<< HEAD
 i am jac"
 i am devson
+=======
+
+
+i dev"我是dev
+
+>>>>>>> master
