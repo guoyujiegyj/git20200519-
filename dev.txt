@@ -1,10 +1,2 @@
-" d e v 分 支 
-<<<<<<< HEAD
-i am jac"
-i am devson
-=======
+dev在master
 
-
-i dev"我是dev
-
->>>>>>> master
